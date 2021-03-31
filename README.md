@@ -12,22 +12,15 @@ A SASS Framework based on the Förenkla Design language from DatInternet
 
   - [Getting Started](#getting-started)
   - [Runing the tests](#running-the-tests)
-  - [Deployment](#deployment)
-  - [Built With](#built-with)
   - [Contributing](#contributing)
   - [Versioning](#versioning)
   - [License](#license)
-  - [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
 n.v.t
 
 ### Onder kopje
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## License
 
