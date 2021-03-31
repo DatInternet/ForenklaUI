@@ -31,10 +31,6 @@ Add additional notes about how to deploy this on a live system
 
 ## License
 
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
+This project is licensed under the [MIT](LICENSE.md)
+License - see the [LICENSE](LICENSE) file for
 details
-
-## Acknowledgments
-  - **Naam** - *Functie* -
-    [Website](https://datinternet.nl)
